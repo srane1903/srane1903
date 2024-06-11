@@ -1,4 +1,8 @@
-![logo](https://github.com/srane1903/srane1903/blob/main/Garcia.png)
+<p align="center">
+  <img src=""  width="200%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Shravani Jayendra Rane</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
